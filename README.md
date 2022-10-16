@@ -6,7 +6,7 @@ In this project a detailed review of the tour and travels management system. The
 The main scope of the project is described below
 1. The project's main purpose is to give information about places which travelers want to visit and provide features to find nearby famous tourist spots, restaurants etc.
 2. In this project we include exclusive features to give the best mode of transportation, no. of places to visit and budget calculation based on number of people and season chosen by the user.
-3.It also includes extended features like updated information of the places, generating reviews based on the travel experience and photos uploaded by the user.
+3. It also includes extended features like updated information of the places, generating reviews based on the travel experience and photos uploaded by the user.
 ### 1.3 Overview
 Our project is about travel planning where the user must sign up and then login to find budget-friendly places. Following the selection of the region, the user must specify the season, budget, departure date, and number of people. This application provides a list of places to visit along with the description of the place in that region. Based on the Wishlist of the travel i.e., amusement parks, museums, cruise tours etc total estimated budget for the travel will be calculated. This will also have features to add the mode of transport and accommodation details which will be redirected to the respective sites. The user can enter the booking details for the total trip. The user can also provide reviews of the places after their travel. The user will also be able to view their previous and upcoming travel bookings.
 ## 2. General Description
