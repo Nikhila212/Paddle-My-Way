@@ -21,3 +21,4 @@ class DestinationCVC: UICollectionViewCell {
     }
 
 }
+
